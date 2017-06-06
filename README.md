@@ -3,8 +3,7 @@
 Hello friends, you are looking at my first ever built website using Github. There will be more changes in the future so don't hesitate to bookmark. 
 
 ## This is how I live and work
-
-![this is it](/Users/lyhamdo/Documents/photopexels-photo-395132.jpeg)
+![this is ](https://user-images.githubusercontent.com/29227260/26849965-98821dda-4b0e-11e7-95e2-47e742675e29.jpeg)
 
 ### Jekyll Themes
 
