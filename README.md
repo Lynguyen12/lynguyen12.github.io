@@ -4,8 +4,7 @@ Hello friends, you are looking at my first ever built website using Github. Ther
 
 ## This is how I live and work
 
-![GitHub Logo](/documents/photo/pexels-photo-395132.jpeg)
-Format: ![this is it](url)
+![this is it](/Users/lyhamdo/Documents/photopexels-photo-395132.jpeg)
 
 ### Jekyll Themes
 
