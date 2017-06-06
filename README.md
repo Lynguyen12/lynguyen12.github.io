@@ -1,30 +1,11 @@
-## Welcome to my world
+# Welcome to my world
 
-Hello friends, you are looking at my first ever website.
+Hello friends, you are looking at my first ever built website using Github. There will be more changes in the future so don't hesitate to bookmark. 
 
-### Markdown
+## This is how I live and work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![GitHub Logo](/documents/photo/pexels-photo-395132.jpeg)
+Format: ![this is it](url)
 
 ### Jekyll Themes
 
