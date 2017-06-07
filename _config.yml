@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Welcome to my world!
-description: This is a practise website that I created myself on Github. Feel free to bookmark this if you want to see the future updates
+description: "This is a practise website that I created myself on Github. Feel free to bookmark this if you want to see the future updates"
 
 #
 # Flags below are optional
@@ -11,16 +11,15 @@ footer-links:
   email: maily.nguyen.492@gmail.com
   facebook: https://www.facebook.com/maily.nguyen.492
   linkedin: https://www.linkedin.com/in/nguyenthimaily/
-  twitter: @maily_nguyen
+  twitter: maily_nguyen
   
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: Ly Nguyen
+disqus: "Ly Nguyen"
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
